@@ -1,0 +1,20 @@
+title:  Game Boards As Dashboards
+author: Anders Schneiderman
+email: your-email@domain.com
+description: Exploring using the metaphor of game boards as a form of dashboard 
+
+# Menu data for sitewide navigation
+navigation_links:
+  # - name: About
+  #   link: 'about/'
+  # # - name: Principles
+    # link: 'principles/'
+  # - name: Strategies
+  #   link: 'strategies/'
+  # # - name: Blog
+  #   link: 'blog/'
+  # # - name: Links
+    # link: 'links'
+  - name: Data Chefs
+    link: 'https://datachefs.org/'
+

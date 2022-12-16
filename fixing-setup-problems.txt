@@ -1,0 +1,18 @@
+cd C:\Users\ASchneiderman\Documents\GitHub\creative-dataviz-pilot
+
+To run Jekyll with GitHub pages on your local box, a few pointers:
+
+To set it up, follow the instructions on getting Jekyll set up:
+https://jekyllrb.com/docs/, then click on Quickstart
+(may also need:
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site
+)
+
+To fire up the Jekyll website, start of a command line, go to the directory containing the site, and type this:
+bundle exec jekyll serve
+
+If you get an error about webrick, try the following:
+bundle add webrick
+
+NOTE: if it complains about there not being a Gemfile, you may need to create a dummy site to get one. Create a new directory, and then type:
+jekyll new --skip-bundle .

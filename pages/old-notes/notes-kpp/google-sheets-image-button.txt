@@ -1,0 +1,6 @@
+I just did some testing by going to my Google Drive then click New > Google Drawings (may have to look under More) then the Drawing App will open. Give your "Untitled Drawing" a title and then create your blank button with no text and no formatting except the default. Now the Drawing file will be saved to your Google Drive and when you need that button just click the file and it will open. Now select the drawing and press Ctrl+C or Edit > Copy. Now on your sheet go to Insert > Drawing and paste in your copied drawing. Now you can change any formatting like bg color, font-color, font, font-size, bold, etc and then add text and when done click Save and Close. You can do this as may times as number of buttons you need and they will all be the same size.
+ 
+ --------
+ 
+ 
+ 

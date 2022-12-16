@@ -1,0 +1,27 @@
+# The Current Challenge
+
+Why go with HTML, css and fun jpegs?
+- Easier for other folks to build their own
+- Most nonprofits have web designers on staff or they can hire
+- A bunch of the work — playing w which icons, colors — don’t need to be skilled to do, fun to futz w, could leave rule tweaking to someone else once you’ve got all the rest set 
+
+Allow for 2 Personal quest in progress queues — either add by hand/voice, or run a script each week from my personal desktop to sweep in the latest from TDist (store the pwd only on my desktop v of the code, maybe also encrypt it or something?)
+
+- No to Google Sheets: easy way to store data, but coding there for these purposes is waaaay too hard
+- Maybe ask that JS guy for easiest way of solving it?  
+  - the data store part?
+  - How to do a private / pwd protected server that’s as easy as possible — want to focus on JS/HTML/CSS code that’s easily portable and/or close to domain (so could easily switch from HTML to BJS or P5JS if goes beyond POC)
+
+is there a light weight JavaScript data store that would work on a password protected site?
+Could i use a private github site for that?  ￼￼
+
+- what if I store it in one drive excel, so it's on the desktop/whatever?  
+Yeah: fix it up online, then run to see
+Or: in v0.5: use fun Ui to tweak, then copy and paste into onedrive excel or Google drive on desktop
+
+V0.1: can play w it wo saving
+Then ask JS guy simplest good way to do it
+￼￼
+
+
+“You can easily create the lines by first creating a flex or grid container. Make the background the color of your choice (black). Make the square divs background color of your choice(white). Then just apply the gap property ;)”

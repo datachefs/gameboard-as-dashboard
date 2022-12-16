@@ -1,0 +1,3 @@
+## Sprites
+
+- Coding Train: [Sprites w running horse](https://github.com/CodingTrain/website/tree/main/CodingChallenges/CC_111_animated_sprite/P5)

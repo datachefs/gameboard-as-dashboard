@@ -1,0 +1,4 @@
+gold,5
+silver,2
+stale bagels, 0
+wood, 3
